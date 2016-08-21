@@ -1,0 +1,23 @@
+.list {
+  color: blue
+}
+.importantItem{
+	color: red
+}
+.containers{
+	font-family: `helvetica`,
+	color: red;
+}
+
+/*
+
+Question: Why does adding an ID change the color of the list item?
+
+Answer here: You are basiclly assigned each of the list a name. When you assign
+the 2nd list a new name only the 2nd list's color would change.
+
+*/
+
+div {
+
+}
